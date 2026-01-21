@@ -10,26 +10,26 @@ I am a Software Engineer and Researcher focused on building scalable SaaS archit
 *Most of my recent work is in private repositories for business and security reasons, but here is a look at the architecture I manage:*
 
 **Loomie CRM** is a high-performance B2B SaaS platform designed to unify enterprise messaging.
-- [cite_start]**Backend Architecture:** Built with **Python & Django**, utilizing a **Multi-Tenant** structure with **OAuth2** and **RBAC** for strict data isolation [cite: 1, 16-17].
-- [cite_start]**Real-Time Communication:** Implemented via **WebSockets (Django Channels) and Redis**, achieving sub-200ms agent response latency[cite: 1, 18].
-- [cite_start]**Task Orchestration:** Managed through **Celery & Redis** for heavy asynchronous processing (marketing triggers, media transcoding)[cite: 1, 19].
-- [cite_start]**Infrastructure:** Fully containerized using **Docker & Docker Compose**, deployed with **Nginx** reverse proxies and Linux-based security protocols[cite: 1, 28, 38].
+- **Backend Architecture:** Built with **Python & Django**, utilizing a **Multi-Tenant** structure with **OAuth2** and **RBAC** for strict data isolation.
+- **Real-Time Communication:** Implemented via **WebSockets (Django Channels) and Redis**, achieving sub-200ms agent response latency.
+- **Task Orchestration:** Managed through **Celery & Redis** for heavy asynchronous processing (marketing triggers, media transcoding).
+- **Infrastructure:** Fully containerized using **Docker & Docker Compose**, deployed with **Nginx** reverse proxies and Linux-based security protocols.
 
 ---
 
 ## 🔬 Academic Research: AI for Cardiac Screening
 My undergraduate thesis focused on **Computer Vision** applied to healthcare:
-- [cite_start]**Project:** Multi-Label Classification of ECGs for Cardiac Amyloidosis screening[cite: 2, 44, 71].
-- [cite_start]**Tech Stack:** **Python, PyTorch, OpenCV, and Pandas**[cite: 1, 30].
-- [cite_start]**Innovation:** Developed a multimodal pipeline comparing CNN architectures (ResNet, DenseNet, EfficientNet), identifying **InceptionV3** as the most stable backbone for multi-scale ECG features[cite: 2, 76, 548].
+- **Project:** Multi-Label Classification of ECGs for Cardiac Amyloidosis screening.
+- **Tech Stack:** **Python, PyTorch, OpenCV, and Pandas**.
+- **Innovation:** Developed a multimodal pipeline comparing CNN architectures (ResNet, DenseNet, EfficientNet), identifying **InceptionV3** as the most stable backbone for multi-scale ECG features.
 
 ---
 
 ## 🛠 Tech Stack
-- [cite_start]**Languages:** Python (Expert), TypeScript, JavaScript, SQL[cite: 1, 37].
-- [cite_start]**Frameworks:** Django, Django REST Framework, Django Channels, React.js[cite: 1, 38].
-- [cite_start]**DevOps/Infra:** Docker, Redis, Celery, Nginx, PostgreSQL, MySQL, Linux[cite: 1, 38].
-- [cite_start]**AI/DS:** PyTorch, Pandas, OpenCV, Scikit-learn[cite: 1, 30, 38].
+- **Languages:** Python (Expert), TypeScript, JavaScript, SQL.
+- **Frameworks:** Django, Django REST Framework, Django Channels, React.js.
+- **DevOps/Infra:** Docker, Redis, Celery, Nginx, PostgreSQL, MySQL, Linux.
+- **AI/DS:** PyTorch, Pandas, OpenCV, Scikit-learn.
 
 ---
 
@@ -37,6 +37,4 @@ My undergraduate thesis focused on **Computer Vision** applied to healthcare:
 *I am actively committing to private commercial projects. If you'd like to discuss the architecture or professional collaborations, feel free to reach out!*
 
 - 📫 **LinkedIn:** [linkedin.com/in/christian-eckert-schneider-68255712a/](https://www.linkedin.com/in/christian-eckert-schneider-68255712a/)
-- [cite_start]📧 **Email:** christianeckertschneider@gmail.com [cite: 1, 2]
-
----
+- 📧 **Email:** christianeckertschneider@gmail.com
